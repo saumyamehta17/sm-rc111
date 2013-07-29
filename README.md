@@ -1,3 +1,4 @@
+
 Railscast sm-rc111
 ===================
 
@@ -48,3 +49,4 @@ Rails Server
 ```
 rails s
 ```
+
