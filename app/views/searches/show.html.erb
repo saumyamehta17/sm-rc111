@@ -1,0 +1,9 @@
+<h2>Search Result</h2>
+
+<%  @search.proj.each do |p| %>
+	<strong>
+		<%= p.name %>
+		<%= p.price %>
+		<%= p.category.name %>
+	</strong><br />
+<% end %>
